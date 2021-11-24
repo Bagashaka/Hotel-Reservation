@@ -223,6 +223,7 @@ int main ()
     	system("cls");
         cout<<"\n\n\t\tTerima Kasih Atas Kunjungannya";
     }
+	//raphking
 	
     getch();
     return 0;
